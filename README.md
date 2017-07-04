@@ -1,5 +1,5 @@
 # TheSwitcher_ObjC
-This is one exercise using Objective C
+This is one exercise using Objective C,
 Here you can:
 - Add
 - Delete
